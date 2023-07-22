@@ -1,0 +1,66 @@
+body {
+    padding:40px;
+    background-image: url(roleximg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-container {
+    white-space:initial;
+    background-color: rgb(203, 208, 212);
+    padding: 20px;
+    height: 500px;
+    width: 500px;
+    text-align: justify;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bolder;
+    border-radius: 20px;
+   /* border: 2px solid hwb(175 0% 96%);*/
+    margin: 20px auto;
+
+}
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: rgb(10, 202, 245) underline;
+}
+
+.user-data {
+    width: 80%;
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 10px 16px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    opacity: calc(80%);
+
+}
+
+.btn {
+    opacity: calc(80%);
+    border: none;
+    display: inline-block;
+    padding: 8px;
+    color: rgb(65, 188, 241);
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 40%;
+    font-family: cursive;
+    font-size: 25px;
+    border: 2px solid rgb(242, 243, 246);
+    padding: 10px;
+    background-color: rgb(32, 17, 17);
+    cursor: pointer;
+}
+
+  .links{
+    padding-left:50px;
+   white-space:break-spaces;
+   font-size:20px;
+  }
